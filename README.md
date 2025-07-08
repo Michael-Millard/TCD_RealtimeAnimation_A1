@@ -3,8 +3,8 @@ Assignment 1 for Realtime Animation at Trinity College Dublin: Plane rotations
 
 <table>
   <tr>
-    <td><img src="screenshots/ss2.png" width="350"/></td>
-    <td><img src="screenshots/ss1.png" width="350"/></td>
+    <td><img src="screenshots/ss2.png" width="400"/></td>
+    <td><img src="screenshots/ss1.png" width="400"/></td>
   </tr>
 </table>
 
